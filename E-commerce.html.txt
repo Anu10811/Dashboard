@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Power BI Report</title>
+</head>
+<body>
+    <iframe title="E-commerce" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=387618e2-5c2d-447f-b855-6ed905e800c0&autoAuth=true&ctid=20343a7d-37a3-490a-abd1-ae0e8718b04d" frameborder="0" allowFullScreen="true"></iframe>
+
+</body>
+</html>
